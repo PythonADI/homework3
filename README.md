@@ -3,7 +3,7 @@
 Prerequisites
 - lists
 - accessing list elements
-- lsit indices (index)
+- list indices (index)
 
 ---
 
